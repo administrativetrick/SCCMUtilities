@@ -1,0 +1,15 @@
+{
+    "LimitingCollections": [
+        {
+            "CollectionId":"01",
+            "Name":"MyLimitingCollection"
+        }
+    ],
+    "Collections": [
+        {
+            "Id":"01",
+            "Environment":"Commercial",
+            "Name":"MyCollectionName"
+        }
+    ]
+}
