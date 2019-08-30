@@ -1,5 +1,5 @@
 {
-    "LimitingCollections": [
+    "LimitingCollection": [
         {
             "CollectionId":"01",
             "Name":"MyLimitingCollection"
@@ -9,7 +9,8 @@
         {
             "Id":"01",
             "Environment":"Commercial",
-            "Name":"MyCollectionName"
+            "Name":"MyCollectionName",
+            "LimitingCollection" :"MyLimmitingCollection"
         }
     ]
 }
