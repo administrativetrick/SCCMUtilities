@@ -15,7 +15,7 @@ For the Cmdlets to run correctly you need Configuration Manager Console installe
 How do I set it up?
 -------------------
 
-Copy the SCCMUtilites folder to a path that exists in $env:PSModulePath.
+Copy the SCCMUtilites folder to a path that exists in $env:PSModulePath (Usually C:\Windows\System32\WindowsPowershell\V1.0\Modules).
 Create your JSON file according to your environment you are currently in, example below.
 
 CollectionConfig.json
