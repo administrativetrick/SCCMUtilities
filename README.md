@@ -5,12 +5,12 @@ What is it?
 
 SCCM Utilities is a collection of PowerShell Modules meant to aid in the adminitration of SCCM.
 It is a growing collection that is meant to be environment agnostic and modular by design.
-Environment specific variable will be implemented by importing JSON configuration files into the the modules.
+Environment specific variables will be implemented by importing JSON configuration files into the the modules.
 
 Do I need any Software?
 ------------------------
 
-For the Cmdlets you run correctly you need Configuration Manager Console installed on your machine.
+For the Cmdlets to run correctly you need Configuration Manager Console installed on your machine.
 
 How do I set it up?
 -------------------
