@@ -1,10 +1,4 @@
 {
-    "LimitingCollection": [
-        {
-            "CollectionId":"01",
-            "Name":"MyLimitingCollection"
-        }
-    ],
     "Collections": [
         {
             "Id":"01",
