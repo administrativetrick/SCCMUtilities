@@ -1,10 +1,14 @@
 {
     "Collections": [
         {
-            "Id":"01",
             "Environment":"Commercial",
-            "Name":"MyCollectionName",
-            "LimitingCollection" :"MyLimmitingCollection"
+            "Name":"MyCommercialCollectionName",
+            "LimitingCollection" :"MyLimmitingCollection1"
+        }
+        {
+            "Environment":"Federal",
+            "Name":"MyFederalCollectionName",
+            "LimitingCollection" :"MyLimmitingCollection2"
         }
     ]
 }
