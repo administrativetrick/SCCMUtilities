@@ -1,4 +1,4 @@
-#SCCMUtilities
+# SCCMUtilities
 
 What is it?
 -----------
@@ -18,13 +18,13 @@ How do I set it up?
 Copy the SCCMUtilites folder to a path that exists in $env:PSModulePath.
 Create your JSON file according to your environment you are currently in, example below.
 
-|Collections|
--------------
-|Environment|Name|LimitingCollection|
--------------------------------------
-|ContosoCommercial|INSTALL - CON - |CON00001|
----------------------------------------------
-|ContosoFederall|INSTALL - FED - |CON00002|
----------------------------------------------
+CollectionConfig.json
+-----------------------
+
+| Environment | Name | LimitingCollection |
+|-------------|------|--------------------|
+| ContosoCommercial | INSTALL - CON - | CON00001 |
+| ContosoFederall | INSTALL - FED - | CON00002 |
+
 
 Reference the default CollectionConfig.json to see how JSON File should be built.
